@@ -1,0 +1,4 @@
+ntc,first_name,last_name,gender,birth,address,email,password,company,role
+Customer Ok,Alexandre,Bartie,Male,02/03/1999,Manuel Comrado,text@gmail.com,test123,enterprise,QA
+Customer Vip,John,Doe,Male,01/01/1985,123 Main St,johndoe@email.com,pass123,Acme Inc.,Developer
+Customer Female,Jane,Smith,Female,05/15/1990,456 Elm St,janesmith@email.com,password123,Widgets Corp.,Developer
